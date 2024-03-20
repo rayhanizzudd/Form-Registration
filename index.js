@@ -25,7 +25,6 @@ function validation() {
       "Your Password Doesn't Matched*";
     return false;
   } else {
-        let Ok = confirm("Are You Sure??"); 
-            alert("Registration Success!")
+            alert("Registration Success!");
   }
 }
